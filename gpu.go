@@ -3,7 +3,7 @@
 
 package nanopow
 
-import "github.com/Inkeliz/go-opencl/opencl"
+import "github.com/bbedward/go-opencl/opencl"
 
 type noneGPUWorker struct{}
 

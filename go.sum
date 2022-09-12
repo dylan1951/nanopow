@@ -1,5 +1,5 @@
-github.com/Inkeliz/go-opencl v0.0.0-20200806180703-5f0707fba006 h1:TKWkFaRW5EPQyrS1pM0vm3vvqw/jmHu+FkV8gRD+7/w=
-github.com/Inkeliz/go-opencl v0.0.0-20200806180703-5f0707fba006/go.mod h1:9ILtD1/UTP/Y7JMCU8loWZMDvhrQuTgHzHatG6z9ZdQ=
+github.com/bbedward/go-opencl v0.0.0-20200806180703-5f0707fba006 h1:9D/abKrmaB4RoUBnYl7GVsgFpYhHPtLsMEK5/y4qoJE=
+github.com/bbedward/go-opencl v0.0.0-20200806180703-5f0707fba006/go.mod h1:YsupPXL5Wa8lDj52i2mFkHtcCfDYq4XhUKyEQhgTX6Q=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

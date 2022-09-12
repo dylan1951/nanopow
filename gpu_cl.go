@@ -6,7 +6,7 @@ package nanopow
 import (
 	"unsafe"
 
-	"github.com/Inkeliz/go-opencl/opencl"
+	"github.com/bbedward/go-opencl/opencl"
 )
 
 type clBuffer struct {

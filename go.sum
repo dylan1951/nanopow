@@ -1,5 +1,5 @@
-github.com/bbedward/go-opencl v0.0.0-20220912164956-50b09a65025c h1:5cHJVhR0/03s8EH3irB+8pM4SjwcEMu+P6c77Gz6LwA=
-github.com/bbedward/go-opencl v0.0.0-20220912164956-50b09a65025c/go.mod h1:rBtj7YWY5xZa+kp6l6ht9PBIpFTL3UE/IJuq3K4p6/Y=
+github.com/bbedward/go-opencl v0.0.0-20220912170320-f150bf21e6e1 h1:LJbzmDTMLguoBWzaecCD8lBzlB7g32yPAw88bYhaTX8=
+github.com/bbedward/go-opencl v0.0.0-20220912170320-f150bf21e6e1/go.mod h1:rBtj7YWY5xZa+kp6l6ht9PBIpFTL3UE/IJuq3K4p6/Y=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=

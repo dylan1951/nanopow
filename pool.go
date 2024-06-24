@@ -108,7 +108,7 @@ func newDefaultPool() (p *Pool) {
 	p = new(Pool)
 
 	clDevice, gpuErr := GetDevice()
-	if gpuErr != nil {
+	if gpuErr == nil {
 		gpu, gpuErr := NewWorkerGPU(clDevice)
 		if gpuErr == nil {
 			p.Workers = append(p.Workers, gpu)
